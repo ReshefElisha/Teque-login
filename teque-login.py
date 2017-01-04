@@ -75,4 +75,4 @@ def get_facebook_oauth_token():
 	
 if __name__ == "__main__":
 	oauth_prov.init(app)
-    app.run()
+	app.run()
